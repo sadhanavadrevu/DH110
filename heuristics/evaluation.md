@@ -4,14 +4,15 @@
 Sadhana Vadrevu | DH 110 | Spring 2022
 
 ### Project Description 
-In this project, I will be analyzing two different music discovery web applications. 
+In this project, I will be analyzing two different music discovery web applications. In today's age of digital streaming, music discovery through the radio is much less productive and relevant. For middle-aged men who grew up on that medium, this transition to the digital space means that finding new music is much more difficult. In analyzing the two digital music discovery web applications [Radiooooo.com](https://radiooooo.com) and [Every Noise at Once](https://everynoise.com), I hope to find how to create an intuitive and easy way to discover music for the modern music listener.
 
-#### Heuristic Evaluation
-A formal way to analyze and evaluate the user experience of an application. A standard
+### Heuristic Evaluation
 
-### Nielsen's Heuristics
+To evaluate the user experience of the two applications, I will be using a Heuristic Evaluation. This evaluation technique defines guidelines for user interface design. With these standards defined, there is a formal way to describe the various aspects of an application's user interface and whether they contribute to a positive or negative experience. A summary of the definitions of the 10 guidelines can be found below:
 
-1. Visibility of System Status: how well does the app inform the user about its state
+#### Nielsen's Heuristics
+
+1. Visibility of System Status: how consistently and timely does the app inform the user about its state
 2. Match Between System and the Real World: how well does the app create a similarity between it and the real world (language and visuals)
 3. User Control and Freedom: how much control does the user have over their actions on the application
 4. Consistency and Standards: how well does the application follow established industry standards
@@ -26,15 +27,17 @@ A formal way to analyze and evaluate the user experience of an application. A st
 ### Web App 1: [Radiooooo.com](https://radiooooo.com)
 ![Radiooooo.com Home Page](https://user-images.githubusercontent.com/20260950/161869239-e0fa498a-a04e-4e1f-9838-968d55ed78be.png)
 
-This web app allows users to discover new music by selecting a region of the world and a time period they are interested in. There are various modes
-a user can use
+This web app allows users to discover new music by selecting a region of the world and a time period they are interested in. There are three moods
+a user can choose for their music discovery journey: "slow", "fast", and/or "weird".
 
-| Heuristic | Evaluation |
-| --------- | ---------- |
-| Visibility of System Status | highlights selected country and time period, could provide scale of where u are on globe, scroll over to see country name, displays name of selected time and country |
-| Match Between System and the Real World | map of countries to select them, could use a timeline to represent time periods |
-| User Control and Freedom | only three "genres" to choose from, skip but no rewind, can't really change display, random music selection (not curated) |
-| Consistency and Standards | highlighting selection standard, share button + heart button, up to expand and learn more, zoom button, standard play bar |
+| Heuristic | Evaluation | Potential Solutions | Severity Rating |
+| --------- | ---------- | ------------------- | --------------- |
+| Visibility of System Status | <ul><li>+: highlights selected country and decade, scroll over country to see its name, displays name of selected country and decade, shows name and artist of current song and user who uploaded it</li> <li>-: don't know where you are on globe</li></ul> | Add globe that highlights where in the world you currently are and the scale of the current window | 2 |
+| Match Between System and the Real World | <ul><li>+: uses a map to display countries</li><li>-: </ul> |
+| User Control and Freedom | <ul><li>-: only three "genres" to choose from, skip but no rewind, can't change display format, random music selection (not curated)</li></ul> | 
+| Consistency and Standards | highlighting selection standard, shits just a pov thing I feel
+
+it is different for u though like more insidious so also valid if u feel differentare button + heart button, up to expand and learn more, zoom button, standard play bar |
 | Error Preventation | greys out and disables countries that don't have music uploaded for specific time period |
 | Flexibility and Efficiency of Use | not much flexibility in free version but does have paid version available for committed users, genre/theme modes available |
 | Aesthetic and Minimalist Design | home page is minimalist -- only shows necessary features |
