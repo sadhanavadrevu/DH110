@@ -9,6 +9,9 @@ Every Noise At Once is a powerful music discovery site that allows users to disc
 ## UT Google Form Survey
 https://forms.gle/KnbqLKjrkMgssUHMA
 
-## Pilot UT
+## Pilot UT Video
+https://drive.google.com/file/d/1kedKWQdtC8BohdyRjE7UXZKqaZNJ3H_l/view?usp=sharing
 
 ## Findings
+
+In performing this pilot  test, there were a few issues I found with my initial testing strategy. First, the test was much shorter than I expected it to be. I think this is partly due to the fact that the participant did not talk through their thoughts much. I as a moderator should have I realized that my step-by-step instructions for the tasks may not be specific enough. The participant struggled with some of the tasks and I had to lead them forward. I think I need 
