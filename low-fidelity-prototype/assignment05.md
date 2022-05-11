@@ -24,6 +24,7 @@ The features I will focus on in this redesign are based on the two personas and 
 ![Home Page Wireframe](https://user-images.githubusercontent.com/20260950/167941039-ce9da66f-d44d-43b6-a8c4-322c67d89c39.jpg)
 ![Discover by Genre Wireframe](https://user-images.githubusercontent.com/20260950/167941044-f3e55566-812c-4c50-bee6-ccc6f20dfcfb.jpg)
 ![Discover by Place Wireframe](https://user-images.githubusercontent.com/20260950/167941065-16ffb8cf-e266-4b4e-8119-914aecc4141f.jpg)
+![Wireflows](https://user-images.githubusercontent.com/20260950/167943970-0fafa6a0-8527-472d-8d2d-c5d58eaf1586.jpg)
 
 ## User Interaction
 ![User Interaction Test](https://user-images.githubusercontent.com/20260950/167941781-c06d09ed-8471-4a0c-aa31-5b9d7ac6eaf5.jpg)
