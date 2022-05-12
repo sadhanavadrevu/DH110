@@ -49,16 +49,61 @@ In your view, what is the most useful source of information for music discovery?
 
 Now I will ask you to demonstrate how you would perform some music discovery tasks. When you're doing these tasks, use whatever websites/tools you'd normally use, and please think aloud through your thought process and any frustrations or successes you have.
 
-[Activity 1]
+_Activity 1_
+
 First, could you show me how you would discover new music related to your favorite genre?
 
 Have you ever done this task before?
 
-How did you decide what website/resource to use? 
+*{activity strategy}* How did you decide what website/resource to use? 
 
 How much time would you spend on an activity like this?
 
-Are you satisfied with the method you used for this activity? How do you decide if you have found the music you wanted?
+*{satisfaction}* Are you satisfied with the method you used for this activity? How do you decide if you have found the music you wanted?
+
+*{results assessment}* Can you state why this method seems particularly good (or bad)?
+
+_Activity 2_
+
+Now, could you please show me how you would go about discovering a completely new kind of music you haven't experienced before?
+
+Have you ever done this task before?
+
+*{activity strategy}* How did you decide what website/resource to use? 
+
+How much time would you spend on an activity like this?
+
+*{satisfaction}* Are you satisfied with the method you used for this activity? How do you decide if you have found the music you wanted?
+
+*{results assessment}* Can you state why this method seems particularly good (or bad)?
+
+## Problems with Music Discovery
+
+*{difficulty}* Have you ever had any problems in discovering music?
+
+How do you figure out WHICH of the many music discovery methods is actually the best/most effective? (Any special tricks or techniques they use?)
+ 
+Do you have social activities (forums or groups, lessons) to learn or get inspiration? 
+
+## Different Kinds of Music Discovery
+
+Can you tell me about a music discovery experience that took you a long time?
+
+Any method for discovery that you find yourself repeatedly doing all the time?
+
+*{NOT using the web for info}* Do you ever discover music WITHOUT using the internet? If so, what do you do in these cases?
+
+## User Expectations
+
+*{latent desires}* If you could create a magical tool that would allow you to discover music as you want, what would such a tool be? How would it work? What areas would it cover?
+
+I've been asking you a lot of questions. Is there anything you want to ask me?
+
+## Closing
+
+Thank you so much for your time! 
+
+
 
 
 
