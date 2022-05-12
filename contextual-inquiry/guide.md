@@ -1,11 +1,15 @@
 # Music Discovery Field Study Script
 
 Date: May 11, 2022
+
 Author: Sadhana Vadrevu
 
 Participant Name:
+
 Email:
+
 Time/Date:
+
 Location:
 
 ## Introduction
