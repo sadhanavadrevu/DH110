@@ -4,13 +4,13 @@ Date: May 11, 2022
 
 Author: Sadhana Vadrevu
 
-Participant Name:
+Participant Name: McKenna Rodi
 
-Email:
+Email: mrodi@g.ucla.edu
 
-Time/Date:
+Time/Date: May 12, 2022 - 7:17 PM
 
-Location:
+Location: Santa Monica, CA
 
 ## Introduction
 
