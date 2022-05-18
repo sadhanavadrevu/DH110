@@ -93,9 +93,9 @@ Header Background vs. Header Text:
 
 ### Findings
 
-The interviewee tended to prefer the designs that I had deemed a mix of modern and classic. For layout, shape, and typography, they selected the variation that most resembled traditional app design. Too much experimentation or eclecticness was not appealing to the user. It was helpful for me to hear what a user who is not invested in the design process prioritizes so that I can avoid spending unecessary time on aesthetics. I was surprised to find that the interviewee prefered the light color scheme. Upon reflection, however, I believe that the darker color has lesser contrast, so it may seem more flat.
+The interviewee tended to prefer the designs that I had deemed a mix of modern and classic. For shape and typography, they selected the variation that most resembled traditional app design - rounded and Nunito, respectively. Too much experimentation or eclecticness in these areas was not appealing to the user. It was helpful for me to hear what a user who is not invested in the design process prioritizes so that I can avoid spending unecessary time on aesthetics. For the layout, the user selected the more modern, sleeker layout of the 9 row grid. I was surprised to find that the interviewee prefered the light color scheme. Upon reflection, however, I believe that the darker color has lesser contrast, so it may seem more flat.
 
-## Final Design
+## Final Interface Design
 
 ### Reasoning
 
