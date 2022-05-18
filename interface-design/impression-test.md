@@ -1,8 +1,8 @@
 #### Sadhana Vadrevu  
-So upon first impression between these two color schemes, which one catches your eye,
+So upon first impression between these two color schemes, which one catches your eye?
 
 #### Zach  
-I would say the lighter color scheme so the one on the left the green color scheme,
+I would say the lighter color scheme, so the one on the left - the green color scheme.
 
 #### Sadhana Vadrevu  
 Okay. Any reason why?
@@ -14,7 +14,7 @@ It's brighter, the color palette is brighter which stands out to me more.
 Okay. Which button would you be most likely to click on?
 
 #### Zach  
-I wouldn't be most likely to click on the circular buttons on the far right.
+I would be most likely to click on the circular buttons on the far right.
 
 #### Sadhana Vadrevu  
 Okay. Cool. Which font would you prefer to see on an app?
