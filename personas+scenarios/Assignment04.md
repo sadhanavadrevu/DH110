@@ -34,4 +34,10 @@ For my second persona, I focused on the other category of user. This type of use
 
 ### Daniel's Scenario
 #### Setting
-Daniel has just come home from his last ride of the night. He graduated from college a couple weeks ago and is living at home and working as an Uber driver until he can save up enough money to pursue his dream of moving to New York and becoming a Broadway star. He opens his Uber app to check his tips, and the amount he sees is a lot lower than he expected. He is anxious to move out of his hometown and begin his dream life, but every time he gets low tips and ratings, his dream is delayed. He notices that a couple of his reviews are 
+Daniel has just come home from his last ride of the night. He graduated from college a couple weeks ago and is living at home and working as an Uber driver until he can save up enough money to pursue his dream of moving to New York and becoming a Broadway star. He opens his Uber app to check his tips, and the amount he sees is a lot lower than he expected. He is anxious to move out of his hometown and begin his dream life, but every time he gets low tips and ratings, his dream is delayed. He notices that a couple of his reviews comment on the music he plays. He has never fit in in Texas and just recently moved back, so he has no clue what a typical customer who rides in his car might like. He wants to find music that will appeal to his customer base, in case his playlist is causing his low ratings. 
+
+#### Use Case
+Daniel decides to use Every Noise At Once for to discover new music. He opens the app and decides to search for music by place because he doesn't even know what genre to begin with. He searches his town of Mesquite, TX and finds that the top genres liked there are Nueva Musica Mexicana, Southern Hip Hop, and Trap. He saves these genres and starts playing from Mesquite, TX playlist for his next drive.
+
+#### User Journey Map
+
