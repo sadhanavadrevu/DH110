@@ -13,11 +13,16 @@ Upon creating an [initial high fidelity prototype](https://www.figma.com/file/y5
 
 ## Final Wireflows with Interface Design 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fy5I9pUUqHxBG7qJspki57u%2FDH-110%253A-Wireframes%3Fnode-id%3D92%253A8305" allowfullscreen></iframe>
+### Kurt Jacobs' Scenario
 
-## Link to High Fidelity Prototype
+<img width="1185" alt="Screen Shot 2022-05-25 at 2 52 06 PM" src="https://user-images.githubusercontent.com/20260950/170373587-7af3eb62-4ea9-4b2d-9813-8c2108de0f55.png">
 
+### Daniel McMahon's Scenario
 
-# Resources
+<img width="1179" alt="Screen Shot 2022-05-25 at 2 53 05 PM" src="https://user-images.githubusercontent.com/20260950/170373676-adc1e70d-8326-4ff9-be6e-f96610305c3f.png">
+
+## [Final High Fidelity Prototype](https://www.figma.com/proto/y5I9pUUqHxBG7qJspki57u/DH-110%3A-Wireframes?page-id=77%3A1481&node-id=77%3A1619&viewport=250%2C169%2C0.42&scaling=min-zoom&starting-point-node-id=77%3A1483)
+
+## Resources
 [^1]: https://www.usability.gov/how-to-and-tools/methods/prototyping.html
 [^2]: https://github.com/sadhanavadrevu/DH110/blob/main/personas+scenarios/Assignment04.md
