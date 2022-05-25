@@ -6,7 +6,16 @@ This assignment was to create a high fidelity prototype of an improved user inte
 
 For this prototype, I will be focusing be focusing on two tasks based on the personas I developed previously. While creating this prototype, I updated my personas and scenarios to be more detailed[^2]. By detailing the scenarios out, I was able to clarify the steps and features that would be implemented in my prototype.
 
-The first task comes from the scenario for Kurt Jacobs. For this task, the goal was for Kurt to be intuitively guided to create a similarity set of his and his daughter's favorite genres to discover new genres they may both enjoy. The second task is inspired by Daniel McMahon. Daniel wants to find music that is popular in his hometown to appeal to his customers.
+## Supported Tasks and Features
+
+### Task 1: Discover music that is similar to two genres
+1. Find a genre and add it to the similarity set
+2. Add a second genre to the similarity set
+3. Use this set to find and explore new genres
+
+### Task 2: Discover music that is popular in a specific place
+1. Search for a place
+2. Find the top genres listened to there and explore them
 
 ## Cognitive Walkthrough 
 Upon creating an [initial high fidelity prototype](https://www.figma.com/file/y5I9pUUqHxBG7qJspki57u/DH-110%3A-Wireframes?node-id=46%3A1097), I preformed a cognitive walkthrough with my peers. This process entailed me walking my peers through my task and them giving me feedback on aspects of my design that are unclear or not user friendly. I was not sure whether I was supposed to walk the user through the process or give them the chance to try the task themselves. I decided to let them try to accomplish the task themselves, and they were able to do so. This result gave my confidence that my design is usable and efficient. From the feedback I received, I decided to add an FAQ section that explains confusing labels and buttons. I also found that I needed to make my prototype more detailed to show the true results of interactions as well. The user's were unable to tell if they were making progress towards completing this task without these details implemented.
