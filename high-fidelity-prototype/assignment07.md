@@ -22,11 +22,11 @@ Upon creating an [initial high fidelity prototype](https://www.figma.com/file/y5
 
 ## Final Wireflows with Interface Design 
 
-### Kurt Jacobs' Scenario
+### Task 1: Kurt Jacobs' Scenario
 
 <img width="1185" alt="Screen Shot 2022-05-25 at 2 52 06 PM" src="https://user-images.githubusercontent.com/20260950/170373587-7af3eb62-4ea9-4b2d-9813-8c2108de0f55.png">
 
-### Daniel McMahon's Scenario
+### Task 2: Daniel McMahon's Scenario
 
 <img width="1179" alt="Screen Shot 2022-05-25 at 2 53 05 PM" src="https://user-images.githubusercontent.com/20260950/170373676-adc1e70d-8326-4ff9-be6e-f96610305c3f.png">
 
