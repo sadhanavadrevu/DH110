@@ -30,7 +30,7 @@ Upon creating an [initial high fidelity prototype](https://www.figma.com/file/y5
 
 <img width="1179" alt="Screen Shot 2022-05-25 at 2 53 05 PM" src="https://user-images.githubusercontent.com/20260950/170373676-adc1e70d-8326-4ff9-be6e-f96610305c3f.png">
 
-## [Final High Fidelity Prototype](https://www.figma.com/proto/y5I9pUUqHxBG7qJspki57u/DH-110%3A-Wireframes?page-id=77%3A1481&node-id=77%3A1619&viewport=250%2C169%2C0.42&scaling=min-zoom&starting-point-node-id=77%3A1483)
+## [Final High Fidelity Prototype](https://www.figma.com/proto/y5I9pUUqHxBG7qJspki57u/DH-110%3A-Wireframes?page-id=77%3A1481&node-id=77%3A1483&viewport=208%2C390%2C0.15&scaling=min-zoom&starting-point-node-id=77%3A1483)
 
 ## Resources
 [^1]: https://www.usability.gov/how-to-and-tools/methods/prototyping.html
