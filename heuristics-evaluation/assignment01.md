@@ -1,16 +1,15 @@
-# Intuitive Music Discovery for Middle-Aged Men
-## Assignment 01: Heuristic Evalution
+# Assignment 1: Heuristic Evalution
 
 Sadhana Vadrevu | DH 110 | Spring 2022
 
-### Project Description 
+## Project Description 
 In this project, I will be analyzing two different music discovery web applications. In today's age of digital streaming, music discovery through the radio is much less productive and relevant. For middle-aged men who grew up on that medium, this transition to the digital space means that finding new music is much more difficult. In analyzing the two digital music discovery web applications [Radiooooo.com](https://radiooooo.com) and [Every Noise at Once](https://everynoise.com), I hope to find how to create an intuitive and easy way to discover music for the modern music listener.
 
-### Heuristic Evaluation
+## Heuristic Evaluation
 
 To evaluate the user experience of the two applications, I will be using a Heuristic Evaluation. This evaluation technique defines guidelines for user interface design. With these standards defined, there is a formal way to describe the various aspects of an application's user interface and whether they contribute to a positive or negative experience. A summary of the definitions of the 10 guidelines can be found below:
 
-#### Nielsen's Heuristics
+### Nielsen's Heuristics
 
 1. Visibility of System Status: how consistently and timely does the app inform the user about its state
 2. Match Between System and the Real World: how well does the app create a similarity between it and the real world (language and visuals)
@@ -24,7 +23,7 @@ To evaluate the user experience of the two applications, I will be using a Heuri
 10. Help and Documentation: does the application have help that is accessible, understandable, and accurate
 
 
-### Web App 1: [Radiooooo.com](https://radiooooo.com)
+###Web App 1: [Radiooooo.com](https://radiooooo.com)
 ![Radiooooo.com Home Page](https://user-images.githubusercontent.com/20260950/161869239-e0fa498a-a04e-4e1f-9838-968d55ed78be.png)
 
 This web app allows users to discover new music by selecting a region of the world and a time period they are interested in. There are three moods
@@ -44,7 +43,7 @@ it is different for u though like more insidious so also valid if u feel differe
 | Help Users Recognize, Diagnose, and Recover From Errors | pop-up button to show that feature is not accessible to free users |
 | Help and Documentation | basically none |
 
-### Web App 2: [Every Noise at Once](https://everynoise.com)
+## Web App 2: [Every Noise at Once](https://everynoise.com)
 ![Every Noise At Once Home Page](https://user-images.githubusercontent.com/20260950/161876702-14682dda-fe5a-4db6-b191-31b233501051.png)
 | Heuristic | Evaluation |
 | --------- | ---------- |
