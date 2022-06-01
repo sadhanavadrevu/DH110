@@ -3,7 +3,7 @@
 Sadhana Vadrevu | DH 110 | Spring 2022
 
 ## Project Description 
-In this project, I will be analyzing two different music discovery web applications. In today's age of digital streaming, music discovery through the radio is much less productive and relevant. For middle-aged men who grew up on that medium, this transition to the digital space means that finding new music is much more difficult. In analyzing the two digital music discovery web applications [Radiooooo.com](https://radiooooo.com) and [Every Noise at Once](https://everynoise.com), I hope to find how to create an intuitive and easy way to discover music for the modern music listener.
+In this project, I will be analyzing two different music discovery web applications. In today's age of digital streaming, music discovery through the radio is much less productive and relevant. For middle-aged men who grew up on that medium, this transition to the digital space means that finding new music is much more difficult. In analyzing the two digital music discovery web applications [Radiooooo.com](https://radiooooo.com) and [Every Noise at Once](https://everynoise.com), I hope to find more about how to create an intuitive and easy way to discover music for the modern music listener.
 
 ## Heuristic Evaluation
 
@@ -31,12 +31,10 @@ a user can choose for their music discovery journey: "slow", "fast", and/or "wei
 
 | Heuristic | Evaluation | Potential Solutions | Severity Rating |
 | --------- | ---------- | ------------------- | --------------- |
-| Visibility of System Status | <ul><li>+: highlights selected country and decade, scroll over country to see its name, displays name of selected country and decade, shows name and artist of current song and user who uploaded it</li> <li>-: don't know where you are on globe</li></ul> | Add globe that highlights where in the world you currently are and the scale of the current window | 2 |
-| Match Between System and the Real World | <ul><li>+: uses a map to display countries</li><li>-: </ul> |
-| User Control and Freedom | <ul><li>-: only three "genres" to choose from, skip but no rewind, can't change display format, random music selection (not curated)</li></ul> | 
-| Consistency and Standards | highlighting selection standard, shits just a pov thing I feel
-
-it is different for u though like more insidious so also valid if u feel differentare button + heart button, up to expand and learn more, zoom button, standard play bar |
+| Visibility of System Status | <ul><li>highlights and consistently displays selected country and decade</li><li>playbar with name and artist of current song and user who uploaded it</li><li>don't know where you are on globe</li><li>selected filters are highlighted</li></ul> | <ul><li>add globe that highlights where in the world you currently are and the scale of the current window</li></ul> | 1 |
+| Match Between System and the Real World | <ul><li>uses a map to display countries</li><li>timeline in order</li><li>feature labels are not generic, but hovering explains</ul> | N/A | 0 |
+| User Control and Freedom | <ul><li>only three "genres" to choose from</li><li>skip but no rewind</li><li>can't change playbar display format</li><li>random music selection (not curated)</li><li>some features are only available to premium users</li></ul> | <ul><li>add more filters</li><li>make all features universally accessible</li><ul> | 2 | 
+| Consistency and Standards | <ul><li>sare button + heart button, up to expand and learn more, zoom button, standard play bar |
 | Error Preventation | greys out and disables countries that don't have music uploaded for specific time period |
 | Flexibility and Efficiency of Use | not much flexibility in free version but does have paid version available for committed users, genre/theme modes available |
 | Aesthetic and Minimalist Design | home page is minimalist -- only shows necessary features |
