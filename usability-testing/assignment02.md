@@ -1,4 +1,4 @@
-# Assignment 02: Usability Testing
+# Assignment 2: Usability Testing
 
 Sadhana Vadrevu | DH 110 | Spring 2022
 
