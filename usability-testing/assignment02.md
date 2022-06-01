@@ -1,6 +1,6 @@
-# Usability Testing: Every Noise At Once
+# Assignment 02: Usability Testing
 
-Sadhana Vadrevu | DH 110 | Spring 2022 | Assignment 2
+Sadhana Vadrevu | DH 110 | Spring 2022
 
 ## About this Usability Test
 
